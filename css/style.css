@@ -59,6 +59,7 @@ a {
 }
 .blog-text h4{
   color: #94716b;
+  font-size: 16px;
 }
 a:hover, a:active, a:focus {
   color: #94716b;
@@ -858,7 +859,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 30px;
   position: relative;
   width: 100%;
-  padding: 30px;
+  padding: 13px;
   float: left;
   background: #fff;
   -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.06);
@@ -892,7 +893,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-blog .blog-text .stuff li {
-    font-size: 14px;
+    font-size: 12px;
   }
 }
 .fh5co-blog .blog-text .stuff li:first-child {
@@ -909,7 +910,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-left: 10px;
 }
 .fh5co-blog .blog-text .stuff li i {
-  font-size: 14px;
+  font-size: 12px;
   padding-right: 5px;
 }
 .fh5co-blog .blog-text h3 {
